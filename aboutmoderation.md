@@ -11,4 +11,4 @@ And if the owner of instance wants to block you, others will not be able to view
 If you are the owner of Netance instance, you can block TON addresses locally on your instance, that violates your instance's rules.<br>
 But you cant block user that uses your instance everywhere. And this user is not linked to your instance, since all the posts are in blockchain.<br>
 And also! All the banned users on every server are public for everyone. They are always available on ```/banned_users_list```, for example:<br>
-[https://app.netance.ru/banned_user_list](https://app.netance.ru/banned_user_list)
+[https://app.netance.ru/banned_users_list](https://app.netance.ru/banned_users_list)
