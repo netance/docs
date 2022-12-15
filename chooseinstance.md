@@ -9,4 +9,4 @@ Because Netance is decentralized, your messages will be available on other insta
 Learn more about our view on moderation [here.](https://netance.github.io/docs/aboutmoderation)<br><br>
 You must not choose our instance. You can choose other one or run your own.<br><br>
 Your profile will be located at ```/b?address=[YOUR_ADDRESS]```, for example:<br>
-https://app.netance.ru/b?address=EQDvxe-63NwxlwVReyzFqbtm2XBEAllTr-JgYvW2vD6PcXIH
+[https://app.netance.ru/b?address=EQDvxe-63NwxlwVReyzFqbtm2XBEAllTr-JgYvW2vD6PcXIH](https://app.netance.ru/b?address=EQDvxe-63NwxlwVReyzFqbtm2XBEAllTr-JgYvW2vD6PcXIH)
