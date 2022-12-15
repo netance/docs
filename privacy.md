@@ -9,7 +9,7 @@
 - We share your ip-address with Cloudflare as third party under the above terms.
 - **We may share your ip-address, TON blockchain address, your posts and replies to other posts with law enforcement agencies.** We must to respond to such requests. If there is a chance that you will be interested to goverment structures, we strongly recommend you follow all the precautions that you yourself are well aware of.
 
-<br><br>
+<br>
 **We will never use analytics that may compromise your privacy.**<br>
 Cloudflare is used on this site only for anonymous analytics and protection of our infrastructure.<br>
 **We can change privacy policy without prior notice.**
