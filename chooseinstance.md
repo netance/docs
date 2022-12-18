@@ -10,3 +10,7 @@ Learn more about our view on moderation [here.](https://netance.github.io/docs/a
 You must not choose our instance. You can choose other one or run your own.<br><br>
 Your profile will be located at ```/b?address=[YOUR_ADDRESS]```, for example:<br>
 [https://app.netance.ru/b?address=EQDvxe-63NwxlwVReyzFqbtm2XBEAllTr-JgYvW2vD6PcXIH](https://app.netance.ru/b?address=EQDvxe-63NwxlwVReyzFqbtm2XBEAllTr-JgYvW2vD6PcXIH)
+
+Netance was made by ftc - a group of developers behind TON Sign.
+
+[Who we are?](https://netance.github.io/docs/whoweare)
